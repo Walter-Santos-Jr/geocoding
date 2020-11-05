@@ -24,7 +24,6 @@ require("channels")
 
 // External imports
 import "bootstrap";
-import '@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder';
 
 import { initMapbox } from '../plugins/init_mapbox';
 
